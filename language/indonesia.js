@@ -1718,6 +1718,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ Nurutomo
 │○ Rashid
 │○ ZeeoneOfc
+|○ Rayy
 │○ Penyedia Module
 ╰❒ And All Support
     `
@@ -1735,7 +1736,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di Guthub RySystem01
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -2437,6 +2438,7 @@ exports.tqto = () =>{
 │○ Nurutomo
 │○ Rashid
 │○ ZeeoneOfc
+|○ Rayy
 │○ Penyedia Module
 ╰❒ And All Support
 `
